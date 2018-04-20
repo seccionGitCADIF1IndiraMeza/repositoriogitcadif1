@@ -1,0 +1,50 @@
+body {
+	background: #d7cfce;
+	color:#524c49;
+}
+
+section > h1 {color: #b4164f;}
+}
+
+header{
+	height: 150px;
+}
+
+span{
+	background: #b4164f;
+	padding: 5px;
+	color: white;
+
+}
+nav{text-align: center;
+}
+
+#presentacion,#pie-pagina{
+	text-align: center;
+}
+
+#redes-sociales{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+#contenido article{
+	width: 46%;
+	float: left; 
+	margin: .5%;
+	border: 1px dashed black;
+	padding: .5%;
+	text-align: justify;
+	background: #fbf8f7;
+	color:#524c49;
+}
+
+aside{
+	clear:both;
+}
+
+
+
+
+
+
